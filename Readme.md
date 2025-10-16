@@ -1,8 +1,3 @@
-Here’s a **professional and submission-ready `README.md`** for your Binance Futures Testnet trading bot — formatted exactly as recruiters expect for GitHub or ZIP submission.
-
----
-
-```markdown
 # 🦾 Binance Futures Testnet Trading Bot
 
 A simplified **Python trading bot** built for the **Binance Futures Testnet (USDT-M)**.  
