@@ -3,10 +3,8 @@ from getpass import getpass
 
 def main():
     print("=== Binance Futures Trading Bot CLI ===")
-    api_key = "HuNo2fqzP3hfd587aZ8E0YyOhXcnsjYZfdrlYfAR2e0Yd4AkMQKysM0KoITZR6PD"
-    # input("Enter your Binance API Key: ").strip()
-    api_secret = "xzrEJO9wQt6f0rYFlj9GiytAYUkFsocJI3l3qJnpruDAACqqz3Fife088mYyRl8q"
-    # input("Enter your Binance API Secret: ").strip()
+    api_key = input("Enter your Binance API Key: ").strip()
+    api_secret = input("Enter your Binance API Secret: ").strip()
 
     bot = TradingBot(api_key, api_secret, testnet=True)
 
