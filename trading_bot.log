@@ -1,0 +1,5 @@
+2025-10-16 18:25:47,456 - INFO - Bot initialized. Testnet mode: True
+2025-10-16 18:26:09,433 - INFO - Account balance fetched
+2025-10-16 18:36:37,681 - INFO - TradingBot initialized. Testnet: True
+2025-10-16 18:36:40,967 - INFO - Fetched account balance
+2025-10-16 18:37:22,898 - ERROR - Binance API Exception: APIError(code=-1121): Invalid symbol.
